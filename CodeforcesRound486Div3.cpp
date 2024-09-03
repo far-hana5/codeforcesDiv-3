@@ -313,6 +313,10 @@ In the first example there are two sequences [2,3,1,3,2]
 
 
 */
+//Key Concepts:
+//Calculate the sum of each sequence.
+//Iterate over each element in the sequence, compute the new sum when one element is removed, and store this information.
+//Check if any two sequences (after removing one element) can have the same sum.
 
 #include <bits/stdc++.h>
 
